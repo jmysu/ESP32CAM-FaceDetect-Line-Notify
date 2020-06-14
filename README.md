@@ -1,6 +1,6 @@
 # ESP32CAM-FaceDetect-Line-Notify [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)<br>
 
-##Line-Notification when ESP32Cam camera detects faces!##
+## Line-Notification when ESP32Cam camera detects faces! ##
  
 <br><br>
 Try some examples from ESP-face, ESPino32Cam!<br>
