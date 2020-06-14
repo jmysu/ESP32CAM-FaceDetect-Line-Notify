@@ -14,5 +14,5 @@ Hardware ESP32Cam from AI-Thinker/ArduCam-IOTai.
 
 ## References
   - [ESP32CAM](https://github.com/espressif/esp32-camera)  Arduino library for ESP32 camera.
-  - [TensorFlowLite_ESP32](https://github.com/tanakamasayuki/Arduino_TensorFlowLite_ESP32)  Arduino TensorFlowLite for ESP32 library.
-  - [Large-Scale Deep Learning for Building Intelligent Computer Systems](https://www.slideshare.net/embeddedvision/largescale-deep-learning-for-building-intelligent-computer-systems-a-keynote-presentation-from-google) A Keynote Presentation from Google Brain Team.
+  - [ESP-face](https://github.com/espressif/esp-face)  Espressif esp32cam face detection.
+  - [ESPino32Cam examples](https://github.com/ThaiEasyElec/ESPino32/tree/master/examples/camera)  Another ESP32cam examples.
