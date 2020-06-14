@@ -4,8 +4,8 @@
  
 <br><br>
 Try some examples from ESP-face, ESPino32Cam!<br>
-Hardware ESP32Cam from AI-Thinker/ArduCam-IOTai.
-The detection performance are not bad with following results... 
+Hardware ESP32Cam from AI-Thinker/ArduCam-IOTai. <br>
+_The detection performance are not bad with following results..._ 
 <br><br>
  
  
