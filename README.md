@@ -14,6 +14,8 @@ _The detection performance are not bad with following results..._
 <img src="pictures/faceTrump.png" width=280/> <img src="pictures/faceTrumpFK.png" width=280/> <img src="pictures/faceKingLine.png" width=320/>
  
 <br><br>
+MTMN is a lightweight Human Face Detection Model, which is built around a new mobile architecture called MobileNetV2 and Multi-task Cascaded Convolutional Networks,
+<img src="https://github.com/espressif/esp-face/blob/master/img/mtmn-workflow-2.png:" />
 
 ## References
   - [ESP32CAM](https://github.com/espressif/esp32-camera)  Arduino library for ESP32 camera.
