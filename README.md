@@ -1,10 +1,13 @@
 # ESP32CAM-FaceDetect-Line-Notify [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)<br>
-Notify on Line when camera detects a faces!
+
+##Line-Notification when ESP32Cam camera detects faces!##
  
 <br><br>
-Example from ESP-face, ESPinoCam!<br>
+Try some examples from ESP-face, ESPino32Cam!<br>
 Hardware ESP32Cam from AI-Thinker/ArduCam-IOTai.
+The detection performance are not bad with following results... 
 <br><br>
+ 
  
 <img src="pictures/faceZU.png" width=240 /> <img src="pictures/faceWWomen.png" width=240 /> <br>
 <img src="pictures/faceDoggy.png" width=240/> <img src="pictures/faceDog.png" width=240/> <br>
