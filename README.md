@@ -5,7 +5,7 @@ Notify on Line when camera detects a faces!
 Example from ESP-face, ESPinoCam!<br>
 Hardware ESP32Cam from AI-Thinker/ArduCam-IOTai.
 <br><br>
-|------------|-------------|-------------| 
+ 
 <img src="pictures/faceZU.png" width=240 /> <img src="pictures/faceWWomen.png" width=240 /> 
 <img src="pictures/faceTrump.png" width=240/> <img src="pictures/faceDoggy.png" width=240/> 
 <img src="pictures/faceDog.png" width=240/> <img src="pictures/faceKingLine.png"/>
