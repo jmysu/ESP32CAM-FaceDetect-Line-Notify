@@ -3,7 +3,7 @@
 
 const char* ssid = CONFIG_WIFI_SSID;
 const char* password = CONFIG_WIFI_PASSWORD;
-String token = "1Nu7gLw8g2bSDrYVFuFSUHVNavWwvGRLprd8fVX4mhE";
+String token = "1Nu7gLw8g2bSDrYVFuFSUHVNavWwvGRLprd8fVX4xxx";
 //ESP32CAM cam;
 LineNotify line;
 #define Button 0
