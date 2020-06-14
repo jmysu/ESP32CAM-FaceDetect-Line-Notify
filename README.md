@@ -9,8 +9,8 @@ _The detection performance are not bad with following results..._
 <br><br>
  
  
-<img src="pictures/faceZU.png" width=260 /> <img src="pictures/faceWWomen.png" width=260 /> <br>
-<img src="pictures/faceDoggy.png" width=260/> <img src="pictures/faceDog.png" width=260/> <br>
+<img src="pictures/faceZU.png" width=280 /> <img src="pictures/faceWWomen.png" width=280 /> <br>
+<img src="pictures/faceDoggy.png" width=280/> <img src="pictures/faceDog.png" width=280/> <br>
 <img src="pictures/faceTrump.png" width=240/> <img src="pictures/faceKingLine.png" width=320/>
  
 <br><br>
