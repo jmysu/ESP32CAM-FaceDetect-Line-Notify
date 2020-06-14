@@ -7,16 +7,14 @@ Hardware ESP32Cam from AI-Thinker/ArduCam-IOTai.
 <br><br>
 
 <p align="left">
-<img src="pictures/faceKingLine.png"/> </p> 
+<img src="pictures/faceKingLine.png"/>  
 
 <p align="right">
 <img src="pictures/faceZU.png" width=240 /><br>
 <img src="pictures/faceWWomen.png" width=240 /><br>  <img src="pictures/faceTrump.png" width=240/> 
 <img src="pictures/faceDoggy.png" width=240/> <img src="pictures/faceDog.png" width=240/>
- </p>
-<br><br>
-
-<img src="picture/deep-learning-638.jpg" /> Google Keynote Presentation. (check references)
+<img src="picture/deep-learning-638.jpg" /> 
+ 
 <br><br>
 
 ## References
