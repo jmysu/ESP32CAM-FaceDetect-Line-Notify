@@ -6,8 +6,9 @@ Example from ESP-face, ESPinoCam!<br>
 Hardware ESP32Cam from AI-Thinker/ArduCam-IOTai.
 <br><br>
 
-<img src="pictures/faceKingLine.png"/> &nbsp;&nbsp;&nbsp;<img src="pictures/faceZU.png" width=240 /><br><br>
-<img src="pictures/faceWWomen.png" width=240 /> &nbsp;&nbsp;&nbsp; <img src="pictures/faceTrump.png" width=240/> 
+<p align="left">
+<img src="pictures/faceKingLine.png"/> </p> <img src="pictures/faceZU.png" width=240 /><br><br>
+<img src="pictures/faceWWomen.png" width=240 /> <img src="pictures/faceTrump.png" width=240/> 
 <img src="pictures/faceDoggy.png" width=240/> <img src="pictures/faceDog.png" width=240/>
 <br><br>
 
