@@ -17,7 +17,7 @@ _The detection performance are not bad with following results..._
 MTMN is a lightweight **Human Face Detection Model**, which is built around [a new mobile architecture called MobileNetV2](https://arxiv.org/abs/1801.04381) and [Multi-task Cascaded Convolutional Networks](https://arxiv.org/abs/1604.02878), and is specially designed for embedded devices. <br>
 
 Following diagram shows the workflow of MTNM.
-![The workflow of MTMN](../img/mtmn-workflow-2.png)
+![The workflow of MTMN](https://github.com/espressif/esp-face/blob/master/img/mtmn-workflow-2.png)
 <br>
 ## References
   - [ESP32CAM](https://github.com/espressif/esp32-camera)  Arduino library for ESP32 camera.
