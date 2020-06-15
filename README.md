@@ -20,7 +20,7 @@ Following diagram shows the workflow of MTNM.
 <br>
 <br>
 <img src="pictures/MTMNsimulation.gif" width=640/> <br>
-![Neural Network 3D Simulation](https://youtu.be/3JQ3hYko51Y) An excellent brief intro on NN operations!
+- [Neural Network 3D Simulation](https://youtu.be/3JQ3hYko51Y) An excellent brief intro on NN operations!
 <br>
 ## References
   - [ESP32CAM](https://github.com/espressif/esp32-camera)  Arduino library for ESP32 camera.
