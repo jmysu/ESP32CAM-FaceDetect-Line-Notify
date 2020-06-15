@@ -20,7 +20,7 @@ Following diagram shows the workflow of MTNM.
 ![The workflow of MTMN](https://github.com/espressif/esp-face/blob/master/img/mtmn-workflow-2.png)
 <br>
 <br>
-<img src="pictures/MTMNsimulation.gif" width=400/> <br>
+<img src="pictures/MTMNsimulation.gif" width=640/> <br>
 ![MTMN simulation](https://www.youtube.com/watch?v=3JQ3hYko51Y) An excellent simulation on MTMN operations!
 <br>
 ## References
