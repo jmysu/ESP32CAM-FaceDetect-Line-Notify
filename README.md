@@ -23,8 +23,8 @@ Following diagram shows the workflow of MTNM.
 - [Neural Network 3D Simulation](https://youtu.be/3JQ3hYko51Y) An excellent brief intro on NN operations!
 <br>
 <br>
-## References 
-- [ESP32CAM](https://github.com/espressif/esp32-camera)  Arduino library for ESP32 camera.
-- [ESP-face](https://github.com/espressif/esp-face)  Espressif esp32cam face detection.
-- [ESPino32Cam examples](https://github.com/ThaiEasyElec/ESPino32/tree/master/examples/camera)  Another ESP32cam examples.
-- [Line Notify](https://notify-bot.line.me/)  Line Notify Message API.
+## References <br>
+  - [ESP32CAM](https://github.com/espressif/esp32-camera)  Arduino library for ESP32 camera.
+  - [ESP-face](https://github.com/espressif/esp-face)  Espressif esp32cam face detection.
+  - [ESPino32Cam examples](https://github.com/ThaiEasyElec/ESPino32/tree/master/examples/camera)  Another ESP32cam examples.
+  - [Line Notify](https://notify-bot.line.me/)  Line Notify Message API.
