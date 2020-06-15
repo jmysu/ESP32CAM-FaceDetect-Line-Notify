@@ -26,3 +26,4 @@ Following diagram shows the workflow of MTNM.
   - [ESP32CAM](https://github.com/espressif/esp32-camera)  Arduino library for ESP32 camera.
   - [ESP-face](https://github.com/espressif/esp-face)  Espressif esp32cam face detection.
   - [ESPino32Cam examples](https://github.com/ThaiEasyElec/ESPino32/tree/master/examples/camera)  Another ESP32cam examples.
+  - [Line Notify](https://notify-bot.line.me/)  Line Notify Message API.
