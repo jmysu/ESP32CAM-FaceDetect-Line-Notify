@@ -6,22 +6,19 @@ Try some examples from ESP-face, ESPino32Cam!<br>
 Hardware ESP32Cam from AI-Thinker/ArduCam-IOTai. <br>
 _The detection performance are not bad with following results..._ 
 <br><br>
- 
- 
+  
 <img src="pictures/faceZU.png" width=280 /> <img src="pictures/faceWWomen.png" width=280 /> <br>
 <img src="pictures/faceDoggy.png" width=280/> <img src="pictures/faceDog.png" width=280/> <br>
 <img src="pictures/faceTrump.png" width=280/> <img src="pictures/faceTrumpFK.png" width=280/> <img src="pictures/faceKingLine.png" width=320/>
  
-<br><br>
+<br>
 MTMN is a lightweight **Human Face Detection Model**, which is built around [a new mobile architecture called MobileNetV2](https://arxiv.org/abs/1801.04381) and [Multi-task Cascaded Convolutional Networks](https://arxiv.org/abs/1604.02878), and is specially designed for embedded devices. <br>
 
 Following diagram shows the workflow of MTNM.
 ![The workflow of MTMN](https://github.com/espressif/esp-face/blob/master/img/mtmn-workflow-2.png)
 <br>
-<br>
 <img src="pictures/MTMNsimulation.gif" width=640/> <br>
 - [Neural Network 3D Simulation](https://youtu.be/3JQ3hYko51Y) An excellent brief intro on NN operations!
-<br>
 <br>
 
 ## References <br>
