@@ -21,7 +21,7 @@ Following diagram shows the workflow of MTNM.
 <br>
 <br>
 <img src="pictures/MTMNsimulation.gif" width=640/> <br>
-![MTMN simulation](https://www.youtube.com/watch?v=3JQ3hYko51Y) An excellent simulation on MTMN operations!
+![MTMN simulation](https://www.youtube.com/watch?v=3JQ3hYko51Y) An excellent brief intro on MTMN operations!
 <br>
 ## References
   - [ESP32CAM](https://github.com/espressif/esp32-camera)  Arduino library for ESP32 camera.
