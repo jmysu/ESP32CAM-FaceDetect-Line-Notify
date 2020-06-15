@@ -19,6 +19,10 @@ MTMN is a lightweight **Human Face Detection Model**, which is built around [a n
 Following diagram shows the workflow of MTNM.
 ![The workflow of MTMN](https://github.com/espressif/esp-face/blob/master/img/mtmn-workflow-2.png)
 <br>
+<br>
+<img src="pictures/MTMNsimulation.gif"
+![MTMN simulation](https://www.youtube.com/watch?v=3JQ3hYko51Y) An excellent simulation on MTMN operations!
+
 ## References
   - [ESP32CAM](https://github.com/espressif/esp32-camera)  Arduino library for ESP32 camera.
   - [ESP-face](https://github.com/espressif/esp-face)  Espressif esp32cam face detection.
