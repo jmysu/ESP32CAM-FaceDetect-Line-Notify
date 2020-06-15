@@ -1,10 +1,7 @@
 # ESP32CAM-FaceDetect-Line-Notify [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)<br>
 
 ### Line-Notification w/ landmark box when ESP32Cam detects faces! ###
- 
-<br>
-<img src="pictures/LineNotify.png" width=320 /> 
-<br>
+<img src="pictures/LineNotify.png" width=320 /> <br>
 Try some examples from ESP-face, ESPino32Cam!<br>
 Hardware ESP32Cam from AI-Thinker/ArduCam-IOTai. <br>
 _The detection performance are not bad with following results..._ 
